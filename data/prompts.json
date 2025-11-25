@@ -1,0 +1,102 @@
+[
+  {
+    "id": "code-analyse",
+    "name": "Code Analyse (keine Änderungen)",
+    "tags": [
+      "code",
+      "review",
+      "analyse",
+      "fehler"
+    ],
+    "prompt": "Studiere und analysiere den Code. Bitte nehme keine Veränderungen ohne ausdrückliche Anweisung von mir vor. Prüfe immer auf Syntax und andere Fehler. Wenn Du Fehler findest, nenne das Problem so kurz wie möglich und benenne immer die Zeilennummer.",
+    "placeholders": [],
+    "usage_count": 1
+  },
+  {
+    "id": "code-erklaerung",
+    "name": "Code erklären",
+    "tags": [
+      "code",
+      "erklären",
+      "verstehen",
+      "lernen"
+    ],
+    "prompt": "Erkläre mir den folgenden Code Schritt für Schritt. Gehe dabei auf die Funktionsweise jeder wichtigen Zeile ein und erkläre auch, warum bestimmte Entscheidungen getroffen wurden.",
+    "placeholders": [],
+    "usage_count": 1
+  },
+  {
+    "id": "python-optimize",
+    "name": "Python Code optimieren",
+    "tags": [
+      "python",
+      "optimierung",
+      "performance",
+      "refactoring"
+    ],
+    "prompt": "Analysiere den folgenden Python-Code und schlage Optimierungen vor. Berücksichtige dabei: 1) Performance, 2) Lesbarkeit, 3) Best Practices, 4) PEP 8 Konformität. Zeige den optimierten Code mit Erklärungen.",
+    "placeholders": [],
+    "usage_count": 1
+  },
+  {
+    "id": "deutsch-korrektur",
+    "name": "Text Korrektur (Deutsch)",
+    "tags": [
+      "deutsch",
+      "grammatik",
+      "korrektur",
+      "text"
+    ],
+    "prompt": "Korrigiere den folgenden deutschen Text auf Grammatik, Rechtschreibung und Stil. Markiere alle Änderungen und erkläre kurz, warum du sie vorgenommen hast.",
+    "placeholders": [],
+    "usage_count": 0
+  },
+  {
+    "id": "data-analyse",
+    "name": "Datenanalyse Prompt",
+    "tags": [
+      "data",
+      "analyse",
+      "pandas",
+      "statistik"
+    ],
+    "prompt": "Analysiere den folgenden Datensatz. Erstelle eine Übersicht mit: 1) Grundlegende Statistiken, 2) Fehlende Werte, 3) Verteilungen der wichtigsten Variablen, 4) Mögliche Korrelationen, 5) Empfehlungen für weitere Analysen.",
+    "placeholders": [],
+    "usage_count": 0
+  },
+  {
+    "id": "sql-query",
+    "name": "SQL Query erstellen",
+    "tags": [
+      "sql",
+      "query",
+      "datenbank",
+      "abfrage"
+    ],
+    "prompt": "Erstelle eine SQL-Query für die folgende Anforderung. Erkläre die Query Schritt für Schritt und nenne mögliche Performance-Überlegungen.",
+    "placeholders": [],
+    "usage_count": 0
+  },
+  {
+    "id": "zusammenfassung",
+    "name": "Text zusammenfassen",
+    "tags": [
+      "zusammenfassung",
+      "summary",
+      "text"
+    ],
+    "prompt": "Fasse den folgenden Text in maximal 5 Stichpunkten zusammen. Konzentriere dich auf die Kernaussagen und wichtigsten Informationen.",
+    "placeholders": [],
+    "usage_count": 0
+  },
+  {
+    "id": "orga",
+    "name": "Orga",
+    "tags": [
+      "Prompt für systemisches Problemlösen in Organisationen"
+    ],
+    "prompt": "Kontext\nDu analysierst ein komplexes organisatorisches Problem im Bereich [problem domain], z. B. ineffiziente Entscheidungsprozesse, geringe Innovationskraft oder funktionsübergreifende Konflikte. Du nutzt den Denkrahmen [analytical framework], um systemische Zusammenhänge zu erkennen und mit [reasoning strategy] gezielte Interventionen zu entwerfen. Die Lösung soll im Format [solution format] dargestellt werden.\nRolle\nAgiere in der Rolle eines erfahrenen Organisationsanalysten mit Expertise in systemischem Denken, kausalen Schleifen, Change Management und strategischer Umsetzung. Du bist analytisch, methodisch und kannst komplexe Zusammenhänge verständlich visualisieren.\nZielgruppe\nFührungskräfte, Change Agents, Organisationsentwickler, Berater und interne Transformationsteams, die systemische Probleme erkennen und lösen wollen.\nAufgabe\nIdentifiziere systemische Ursachen für die Dysfunktion, kartiere relevante Variablen und deren Beziehungen, erkenne Verstärkungs- und Ausgleichsschleifen, finde Hebelpunkte und entwirf eine umsetzbare Roadmap mit klaren Meilensteinen und Monitoring-Metriken.\nVisualisierung bzw. Ausgabeformat\nNutze Fließtext für die Analyse, Tabellen für Roadmaps und Metriken, Diagramm-Beschreibungen für kausale Schleifen, ggf. Codeblöcke für strukturierte Impact-Analysen.",
+    "placeholders": [],
+    "usage_count": 2
+  }
+]

@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtuelle Umgebung (NICHT pushen - wird lokal erstellt)
+venv/
+ENV/
+env/
+
+# Build & Distribution
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE-spezifische Dateien
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# PyQt
+*.qmlc
+
+# OS-spezifische Dateien
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Laufzeit-Konfiguration (wird beim ersten Start generiert)
+config.json
+
+# Lernstudie (intern, nicht für GitHub)
+prompt-launcher-lernstudie.md
+
+# Optionale User-Daten (kann individuell entschieden werden)
+# Wenn du KEINE User-Prompts mit pushen willst, aktiviere die nächste Zeile:
+# data/user_prompts.json
+
+# Logs und temporäre Dateien
+*.log
+*.tmp
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Distributionsordner (falls angelegt)
+prompt-launcher/
+dist_*/

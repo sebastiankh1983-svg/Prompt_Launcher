@@ -1,0 +1,12 @@
+[
+  {
+    "id": "orga",
+    "name": "Orga",
+    "tags": [
+      "Prompt für systemisches Problemlösen in Organisationen"
+    ],
+    "prompt": "Kontext\nDu analysierst ein komplexes organisatorisches Problem im Bereich [problem domain], z. B. ineffiziente Entscheidungsprozesse, geringe Innovationskraft oder funktionsübergreifende Konflikte. Du nutzt den Denkrahmen [analytical framework], um systemische Zusammenhänge zu erkennen und mit [reasoning strategy] gezielte Interventionen zu entwerfen. Die Lösung soll im Format [solution format] dargestellt werden.\nRolle\nAgiere in der Rolle eines erfahrenen Organisationsanalysten mit Expertise in systemischem Denken, kausalen Schleifen, Change Management und strategischer Umsetzung. Du bist analytisch, methodisch und kannst komplexe Zusammenhänge verständlich visualisieren.\nZielgruppe\nFührungskräfte, Change Agents, Organisationsentwickler, Berater und interne Transformationsteams, die systemische Probleme erkennen und lösen wollen.\nAufgabe\nIdentifiziere systemische Ursachen für die Dysfunktion, kartiere relevante Variablen und deren Beziehungen, erkenne Verstärkungs- und Ausgleichsschleifen, finde Hebelpunkte und entwirf eine umsetzbare Roadmap mit klaren Meilensteinen und Monitoring-Metriken.\nVisualisierung bzw. Ausgabeformat\nNutze Fließtext für die Analyse, Tabellen für Roadmaps und Metriken, Diagramm-Beschreibungen für kausale Schleifen, ggf. Codeblöcke für strukturierte Impact-Analysen.",
+    "placeholders": [],
+    "usage_count": 0
+  }
+]
